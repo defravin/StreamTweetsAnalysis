@@ -1,1 +1,1 @@
-# StreamTweetsSentimentAnalysis
+# StreamTweetsAnalysis
